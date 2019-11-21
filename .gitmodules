@@ -1,0 +1,3 @@
+[submodule "js-jsnacks-blocco-1#BonusFibonacci"]
+	path = "js-jsnacks-blocco-1#BonusFibonacci"
+	url = ../js-fibonacci.git
